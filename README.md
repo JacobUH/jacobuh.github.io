@@ -13,14 +13,14 @@ Project Showcase: Explore a curated selection of my current and completed projec
 Great Interface: The website boasts a visually appealing and user-friendly interface, designed to provide an enjoyable browsing experience for visitors. Smooth navigation and responsive design ensure seamless access on various devices.
 
 ### *Technologies Used:*
-HTML5: For structuring the content and layout of the website.
+- HTML5: For structuring the content and layout of the website.
 
-CSS3: For styling the website, ensuring an aesthetically pleasing design.
+- CSS3: For styling the website, ensuring an aesthetically pleasing design.
 
-JavaScript: To add interactive elements and improve user experience.
+- JavaScript: To add interactive elements and improve user experience.
 
 ### *Deployment:*
-The website is deployed and live at [https://jacobuh.github.io/]. Feel free to visit and explore!
+The website is deployed and live at [jacobuh.github.io](https://jacobuh.github.io/). Feel free to visit and explore!
 
 ## *Thanks!*
-Thank you for visiting my portfolio repository. I hope you enjoy exploring my work and getting to know me better. If you have any questions or want to get in touch, don't hesitate to contact me at [jacobrangel0628@gmail.com]. Happy browsing!
+Thank you for visiting my portfolio repository. I hope you enjoy exploring my work and getting to know me better. If you have any questions or want to get in touch, don't hesitate to contact me at [jacobrangel0628@gmail.com](jacobrangel0628@gmail.com). Happy browsing!
