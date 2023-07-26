@@ -5,6 +5,9 @@ Welcome to my Portfolio Website!
 ### *Introduction:*
 This repository contains the code for my personal portfolio website, where I showcase my skills, projects, and a little bit about myself. The website serves as a central hub for anyone interested in learning more about me, my work, and my passion for web development.
 
+### *Deployment:*
+The website is deployed and live at [jacobuh.github.io](https://jacobuh.github.io/). Feel free to visit and explore!
+
 ### *Features:*
 About Me: Get to know me better through a brief introduction and a summary of my background, skills, and interests. Discover what drives me and how I approach my work.
 
@@ -18,9 +21,6 @@ Great Interface: The website boasts a visually appealing and user-friendly inter
 - CSS3: For styling the website, ensuring an aesthetically pleasing design.
 
 - JavaScript: To add interactive elements and improve user experience.
-
-### *Deployment:*
-The website is deployed and live at [jacobuh.github.io](https://jacobuh.github.io/). Feel free to visit and explore!
 
 ## *Thanks!*
 Thank you for visiting my portfolio repository. I hope you enjoy exploring my work and getting to know me better. If you have any questions or want to get in touch, don't hesitate to contact me at [jacobrangel0628@gmail.com](jacobrangel0628@gmail.com). Happy browsing!
