@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio Website!
 
-### ** Introduction: **
+### **Introduction:**
 This repository contains the code for my personal portfolio website, where I showcase my skills, projects, and a little bit about myself. The website serves as a central hub for anyone interested in learning more about me, my work, and my passion for web development.
 
 ### Features:
