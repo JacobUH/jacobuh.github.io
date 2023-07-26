@@ -14,7 +14,9 @@ Great Interface: The website boasts a visually appealing and user-friendly inter
 
 ### *Technologies Used:*
 HTML5: For structuring the content and layout of the website.
+
 CSS3: For styling the website, ensuring an aesthetically pleasing design.
+
 JavaScript: To add interactive elements and improve user experience.
 
 ### *Deployment:*
