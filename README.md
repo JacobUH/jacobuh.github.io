@@ -18,5 +18,5 @@ JavaScript: To add interactive elements and improve user experience.
 ### *Deployment:*
 The website is deployed and live at [https://jacobuh.github.io/]. Feel free to visit and explore!
 
-### *Thanks!*
+## *Thanks!*
 Thank you for visiting my portfolio repository. I hope you enjoy exploring my work and getting to know me better. If you have any questions or want to get in touch, don't hesitate to contact me at [jacobrangel0628@gmail.com]. Happy browsing!
